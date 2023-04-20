@@ -1,0 +1,15 @@
+.Blue{
+    background-color: aqua;
+}
+
+.Red{
+    background-color: rgb(223, 83, 83);
+}
+
+#titulo_azul{
+    color: blue;
+}
+
+#titulo_rojo{
+    color: red;
+}
